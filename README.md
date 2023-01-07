@@ -1,2 +1,2 @@
 # notebooks
-Notebook assignments for submission
+Notebook submissions for data science bootcamp
